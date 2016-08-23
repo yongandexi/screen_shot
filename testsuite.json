@@ -1,0 +1,25 @@
+{
+    "host":"http://106.2.44.33:7000",
+
+    "sim_url":"/api/login/simulate?email=hzlvyou@corp.netease.com",
+
+    "check_urls":[
+        {
+          "url": "/main/?pid=156#/m/report/?rid=3466",
+          "name": "3466"
+        },
+        {
+          "url": "/main/?pid=156#/m/report/?rid=3456",
+          "name": "3456"
+        },
+        {
+          "url": "/main/?pid=156#/m/report/?rid=3605",
+          "name": "3605"
+        },
+        {
+          "url": "/main/?pid=156#/m/report/?rid=3607",
+          "name": "3607"
+        }
+    ]
+
+}

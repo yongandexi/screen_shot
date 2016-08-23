@@ -1,0 +1,16 @@
+{
+  "name": "screen_shot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youdata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lvyou",
+  "license": "ISC",
+  "dependencies": {
+	"casperjs": "^1.1.3",
+	"phantomcss": "^1.1.3",
+	"phantomjs": "^2.1.7"
+  }
+}
